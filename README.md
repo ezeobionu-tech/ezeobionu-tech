@@ -4,7 +4,7 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ezeobionu-tech/configure-EntraID)
+  - [Microsoft Azure EntraID](https://github.com/ezeobionu-tech/configure-EntraID)
   
 
 
